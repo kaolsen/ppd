@@ -1,0 +1,3 @@
+if c_old > 0
+   code= free
+end if
